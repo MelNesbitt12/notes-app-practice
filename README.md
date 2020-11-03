@@ -18,7 +18,7 @@ I also used NPM to install the following dependencies:
 - Webpack:
   - webpack
   - webpack-cli
-  - webpack-dev-server"
+  - webpack-dev-server
 
 ## Future Iterations:
 - Allowing users to save their notes via local storage
