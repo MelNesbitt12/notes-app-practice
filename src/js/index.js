@@ -6,16 +6,16 @@ const noteManager = new NoteManager({
   element: document.querySelector('.tc-notes'),
   notes: [
     {
-      title:'This is a demo note',
-      body: 'Lorem ipsum lorem...'
+      title:'Add Title Here...',
+      body: 'Add Content Here...'
     },
     {
-      title:'This is a demo note',
-      body: 'Lorem ipsum lorem...'
+      title:'Add Title Here...',
+      body: 'Add Content Here...'
     },
     {
-      title:'This is a demo note',
-      body: 'Lorem ipsum lorem...'
+      title:'Add Title Here...',
+      body: 'Add Content Here...'
     },
   ]
 })
