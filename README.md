@@ -20,6 +20,9 @@ I also used NPM to install the following dependencies:
   - webpack-cli
   - webpack-dev-server"
 
+## Future Iterations:
+- Allowing users to save their notes via local storage
+
 ## Technologies Used:
 - Javascript
 - Sass
