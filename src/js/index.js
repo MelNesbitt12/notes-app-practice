@@ -21,11 +21,11 @@ const noteManager = new NoteManager({
 })
 
 noteManager.onNewNote = (noteObject) => {
-  console.log(noteObject)
+  // console.log(noteObject)
 }
 
 noteManager.onNoteChange = (noteObject) => {
-  console.log(noteObject)
+  // console.log(noteObject)
 }
 
 noteManager.onNoteRemove = () => {
